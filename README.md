@@ -1,18 +1,8 @@
 # The Legend of Zelda: Ocarina of Time
 
-[![Build Status][jenkins-badge]][jenkins] [![Decompilation Progress][progress-badge]][progress] [![Contributors][contributors-badge]][contributors] [![Discord Channel][discord-badge]][discord]
-
-[jenkins]: https://jenkins.deco.mp/job/OOT/job/master
-[jenkins-badge]: https://img.shields.io/jenkins/build?jobUrl=https%3A%2F%2Fjenkins.deco.mp%2Fjob%2FOOT%2Fjob%2Fmaster
-
-[progress]: https://zelda64.dev/games/oot
-[progress-badge]: https://img.shields.io/endpoint?url=https://zelda64.dev/assets/csv/progress-oot-shield.json
-
+[![Contributors][contributors-badge]][contributors]
 [contributors]: https://github.com/zeldaret/oot/graphs/contributors
 [contributors-badge]: https://img.shields.io/github/contributors/zeldaret/oot
-
-[discord]: https://discord.zelda64.dev
-[discord-badge]: https://img.shields.io/discord/688807550715560050?color=%237289DA&logo=discord&logoColor=%23FFFFFF
 
 ```diff
 - WARNING! -
@@ -152,3 +142,6 @@ All contributions are welcome. This is a group effort, and even small contributi
 Some tasks also don't require much knowledge to get started.
 
 Most discussions happen on our [Discord Server](https://discord.zelda64.dev), where you are welcome to ask if you need help getting started, or if you have any questions regarding this project and other decompilation projects.
+
+## Licensing
+This is licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) as per the agreements of contributors [here](https://github.com/Dragorn421/oot-licensing/issues/1). If you have any issues with your work being used under the CC0 license please contact us.
